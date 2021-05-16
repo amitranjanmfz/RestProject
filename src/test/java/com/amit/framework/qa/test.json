@@ -1,0 +1,105 @@
+[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "john@gmail.com",
+    "age": "24",
+    "company": "wipro",
+    "merchants": [
+      {
+        "merchantID": "1",
+        "merchantName": "merchant1"
+      },
+      {
+        "merchantID": "2",
+        "merchantName": "merchant2"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "firstName": "Merkel",
+    "lastName": "Merkel@gmail.com",
+    "age": "25",
+    "company": "infy"
+  },
+  {
+    "id": "14",
+    "firstName": "Kim",
+    "lastName": "Kim@gmail.com",
+    "age": "35",
+    "company": "cisco"
+  },
+  {
+    "users": [
+      {
+        "id": "1",
+        "firstName": "John",
+        "lastName": "john@gmail.com",
+        "age": "24",
+        "company": "wipro",
+        "merchants": [
+          {
+            "merchantID": "1",
+            "merchantName": "merchant1"
+          },
+          {
+            "merchantID": "2",
+            "merchantName": "merchant2"
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "firstName": "Merkel",
+        "lastName": "Merkel@gmail.com",
+        "age": "25",
+        "company": "infy"
+      },
+      {
+        "id": "14",
+        "firstName": "Kim",
+        "lastName": "Kim@gmail.com",
+        "age": "35",
+        "company": "cisco"
+      }
+    ],
+    "id": "2dAPM9m"
+  },
+  {
+    "users": [
+      {
+        "id": "1",
+        "firstName": "Amit",
+        "lastName": "Amit@gmail.com",
+        "age": "24",
+        "company": "wipro",
+        "merchants": [
+          {
+            "merchantID": "1",
+            "merchantName": "merchant1"
+          },
+          {
+            "merchantID": "2",
+            "merchantName": "merchant2"
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "firstName": "Ranjan",
+        "lastName": "Ranjan@gmail.com",
+        "age": "25",
+        "company": "infy"
+      },
+      {
+        "id": "14",
+        "firstName": "Ajay",
+        "lastName": "Ajay@gmail.com",
+        "age": "35",
+        "company": "cisco"
+      }
+    ],
+    "id": "S2qxyek"
+  }
+]

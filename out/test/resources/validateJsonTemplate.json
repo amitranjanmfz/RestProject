@@ -1,0 +1,18 @@
+{
+  "dataSet": [
+    {
+      "testCase": "Verify error message on wrong userName",
+      "username": "test",
+      "password": "password",
+      "rememberMe": false,
+      "jsonFile":"validateJsonTemplate1.json"
+    },
+    {
+      "testCase": "Verify error message on empty userName",
+      "username": "",
+      "password": "password",
+      "rememberMe": false,
+      "jsonFile":"validateJsonTemplate2.json"
+    }
+  ]
+}
